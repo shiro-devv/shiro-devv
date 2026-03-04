@@ -44,8 +44,8 @@ Arch has taught me more about how computers actually work than any classroom eve
 $ neofetch
 OS:     Arch Linux x86_64
 Shell:  zsh
-DE/WM:  [your window manager here]
-Term:   [your terminal here]
+DE/WM:  niri
+Term:   kitty
 Uptime: long enough to be proud of it 😤
 ```
 
@@ -59,9 +59,7 @@ Uptime: long enough to be proud of it 😤
 **My Arch Setup includes:**
 - Package manager: `pacman` + `yay` (AUR helper)
 - Init system: `systemd`
-- Dotfiles: Version-controlled and always a work in progress 🔧
-
-> *"I use Arch, btw."* — Me, probably. 🙃
+- Dotfiles: [Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)🔧
 
 ---
 
