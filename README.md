@@ -32,6 +32,33 @@ Whether it's debugging a stubborn function at 2AM or exploring a new framework o
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Currently Learning
+- 🌐 Web Development (React / Node.js)
+- 🗃️ Database Management (SQL & NoSQL)
+- 🔐 Data Structures & Algorithms
+- ☁️ Cloud basics & DevOps fundamentals
+
+## 💼 Experience
+
+### 🤖 Leader / Head Developer — Robo Rangers *(2024)*
+> Vigan · Remote
+
+Led a team in building a **flood warning device** using Arduino. Handled both the technical and leadership sides of the project.
+
+- 🔧 Programmed the Arduino Uno for real-time flood detection
+- 👥 Led and coordinated the development team
+- 🥈 Achieved **2nd place** and received an **Environmental Friendly Award**
+
+*Tech used:* `Arduino`
+
 ### 🐧 My Daily Driver — Arch Linux
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -61,32 +88,6 @@ Uptime: long enough to be proud of it 😤
 - Init system: `systemd`
 - Dotfiles: [Dank Material Shell](https://github.com/AvengeMedia/DankMaterialShell)🔧
 
----
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Currently Learning
-- 🌐 Web Development (React / Node.js)
-- 🗃️ Database Management (SQL & NoSQL)
-- 🔐 Data Structures & Algorithms
-- ☁️ Cloud basics & DevOps fundamentals
-
-## 💼 Experience
-
-### 🤖 Leader / Head Developer — Robo Rangers *(2024)*
-> Vigan · Remote
-
-Led a team in building a **flood warning device** using Arduino. Handled both the technical and leadership sides of the project.
-
-- 🔧 Programmed the Arduino Uno for real-time flood detection
-- 👥 Led and coordinated the development team
-- 🥈 Achieved **2nd place** and received an **Environmental Friendly Award**
-
-*Tech used:* `Arduino`
 
 ---
 
