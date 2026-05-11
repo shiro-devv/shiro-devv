@@ -44,9 +44,8 @@ Arch has taught me more about how computers actually work than any classroom eve
 $ neofetch
 OS:     Arch Linux x86_64
 Shell:  zsh
-DE/WM:  niri
+DE/WM:  hyprland
 Term:   kitty
-Uptime: long enough to be proud of it 😤
 ```
 
 **Why Arch?**
@@ -58,7 +57,7 @@ Uptime: long enough to be proud of it 😤
 **My Arch Setup includes:**
 - Package manager: `pacman` + `yay` (AUR helper)
 - Init system: `systemd`
-- Dotfiles: [Hyde]([https://github.com/AvengeMedia/DankMaterialShell](https://hydeproject.pages.dev/))🔧
+- Dotfiles: [Hyde](https://hydeproject.pages.dev/)🔧
 
 ---
 
