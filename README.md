@@ -1,16 +1,14 @@
-# 👋 Hello, World! I'm Shen
-
-> *"Code is poetry written for machines, but read by humans."*
+# 👋 Hello, World! I'm Shiro
 
 ---
 
 ## 🇵🇭 About Me
 
-Hey there! I'm **Shen**, an **intermediate developer** and **2nd year Computer Science student** from **Vigan, Ilocos Sur, Philippines** 🇵🇭. Proficient in TypeScript and JavaScript, with skills across multiple languages and stacks.
+Hey there! I'm **Shrio**, an **intermediate developer** and **3rd year Computer Science student** from **Vigan, Ilocos Sur, Philippines** 🇵🇭. Proficient in TypeScript and JavaScript, with skills across multiple languages and stacks.
 
 Whether it's debugging a stubborn function at 2AM or exploring a new framework on a weekend, I'm always in the zone when it comes to programming. I consider myself an **intermediate programmer** — past the "Hello, World!" phase, but still hungry to learn and grow every single day.
 
-📧 shen.does.dev@gmail.com | 🌐 [shiro-devv.github.io](https://shiro-devv.github.io)
+📧 shrio.does.dev@gmail.com | 🌐 [shiro-devv.github.io](https://shiro-devv.github.io)
 
 ---
 
@@ -107,7 +105,7 @@ Here are some things I've built or am currently working on:
 ```
 Year 1  ████████████████████  Core programming fundamentals ✅
 Year 2  ████████████████████  Data structures, OOP, App dev, Computational Science 🔄 (in progress)
-Year 3  ░░░░░░░░░░░░░░░░░░░░  Algorithms, Systems, AI/ML 📅
+Year 3  ██░░░░░░░░░░░░░░░░░░  Systems, AI/ML 📅
 Year 4  ░░░░░░░░░░░░░░░░░░░░  Capstone, Specialization 📅
 ```
 
