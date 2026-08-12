@@ -104,8 +104,8 @@ Here are some things I've built or am currently working on:
 
 ```
 Year 1  ████████████████████  Core programming fundamentals ✅
-Year 2  ████████████████████  Data structures, OOP, App dev, Computational Science 🔄 (in progress)
-Year 3  ██░░░░░░░░░░░░░░░░░░  Systems, AI/ML 📅
+Year 2  ████████████████████  Data structures, OOP, App dev, Computational Science 🔄 ✅
+Year 3  ██░░░░░░░░░░░░░░░░░░  Systems, AI/ML 📅 (In Progress)
 Year 4  ░░░░░░░░░░░░░░░░░░░░  Capstone, Specialization 📅
 ```
 
