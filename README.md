@@ -4,7 +4,7 @@
 
 ## 🇵🇭 About Me
 
-Hey there! I'm **Shrio**, an **intermediate developer** and **3rd year Computer Science student** from **Vigan, Ilocos Sur, Philippines** 🇵🇭. Proficient in TypeScript and JavaScript, with skills across multiple languages and stacks.
+Hey there! I'm **Shiro**, an **intermediate developer** and **3rd year Computer Science student** from **Vigan, Ilocos Sur, Philippines** 🇵🇭. Proficient in TypeScript and JavaScript, with skills across multiple languages and stacks.
 
 Whether it's debugging a stubborn function at 2AM or exploring a new framework on a weekend, I'm always in the zone when it comes to programming. I consider myself an **intermediate programmer** — past the "Hello, World!" phase, but still hungry to learn and grow every single day.
 
